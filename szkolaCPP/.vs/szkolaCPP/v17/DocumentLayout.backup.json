@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\szkolaCPP\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\KZad\\szkolaCPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF20FB07-5DDC-410D-A737-6FAAAF9321F8}|szkolaCPP.vcxproj|C:\\Users\\Admin\\source\\repos\\szkolaCPP\\szkolaCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF20FB07-5DDC-410D-A737-6FAAAF9321F8}|szkolaCPP.vcxproj|solutionrelative:szkolaCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\KZad\\szkolaCPP\\szkolaCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:szkolaCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "szkolaCPP.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\szkolaCPP\\szkolaCPP.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KZad\\szkolaCPP\\szkolaCPP.cpp",
               "RelativeDocumentMoniker": "szkolaCPP.cpp",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\szkolaCPP\\szkolaCPP.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KZad\\szkolaCPP\\szkolaCPP.cpp",
               "RelativeToolTip": "szkolaCPP.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
